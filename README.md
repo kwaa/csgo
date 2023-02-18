@@ -22,7 +22,7 @@ Suitable for AWP / SSG 08
 
 ### [Special `ALT`](special_alt.cfg)
 
-Bind <kbd>Alt</kbd> to Auto Jump-Crouch.
+Bind <kbd>ALT</kbd> to Auto Jump-Crouch.
 
 ### [Special `TAB`](special_tab.cfg)
 
